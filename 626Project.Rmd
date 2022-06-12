@@ -13,9 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Team Members (Group 11)
 
 * Jackson Smith
-  + Email:
-  + Major:
-  + Responsibility:
+  + Email: jackson.t.smith@tamu.com
+  + Major: Statistics
+  + Responsibility: Real World Application
 * Jingcheng Xia
   + Email:
   + Major:
